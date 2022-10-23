@@ -2,7 +2,7 @@
 
 /**
  * print_u - prints an unsigned in in decimal notation
- * @u: unsigned int to print
+ * @u: unsigned int to print.
  *
  * Return: number of digits printed
  */
