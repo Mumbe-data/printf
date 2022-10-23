@@ -2,7 +2,7 @@
 
 /**
  * print_hex - prints an unsigned int in hexidecimal form
- * @n: unsigned int to print
+ * @n: unsigned int to print.
  * @c: flag to determine case of printing (0 = lower, 1 = upper)
  *
  * Return: number of digits printed
